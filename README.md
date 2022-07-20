@@ -3,6 +3,13 @@ Notes and Exercises from 'Coding the Matrix: Linear Algebra Through Computer Sci
 
 ![https://images-na.ssl-images-amazon.com/images/I/41IS28ZzzqL._SX384_BO1,204,203,200_.jpg](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396836700l/18469853.jpg)
 
+## Week 0
+
+### Lecture 2
+
+[![Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://deepnote.com/workspace/gagan-289a-e8a0a5d0-19a4-4b80-a375-70073bdc04d8/project/Untitled-project-cb95244b-b2b3-43fc-a858-f263e8090acd/%2FCTM_W1_L2.ipynb) 
+
+
 ## Primary links
 
 1. Coding The Matrix | https://codingthematrix.com/
